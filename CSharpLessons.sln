@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpLessons", "CSharpLessons\CSharpLessons.csproj", "{240B461B-3187-42C8-AE14-121037F26333}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventsLesson", "EventsLesson\EventsLesson.csproj", "{AC381C0B-7004-4C7F-863E-5C334E61A5D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{240B461B-3187-42C8-AE14-121037F26333}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{240B461B-3187-42C8-AE14-121037F26333}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{240B461B-3187-42C8-AE14-121037F26333}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC381C0B-7004-4C7F-863E-5C334E61A5D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC381C0B-7004-4C7F-863E-5C334E61A5D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC381C0B-7004-4C7F-863E-5C334E61A5D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC381C0B-7004-4C7F-863E-5C334E61A5D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
